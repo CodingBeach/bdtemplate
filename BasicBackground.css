@@ -14,7 +14,8 @@
 	--textshadow:					transparent;
 	
 	--accentcolor:					190,78,180;
-	--accentcolor2:					var(--accentcolor);
+	--accentcolor2:					47,97,161;
+	--accentcolor2:					var(--accentcolor2);
 	--linkcolor:					var(--accentcolor2);
 	
 	--successcolor: 				59,165,92;
